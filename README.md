@@ -27,6 +27,8 @@ The metrics we will check are:
 **Cash Flow Margin**
 
 
+
+
 ******Data handling and pre-processing******
 
 For our stock data, we will use the CRSP file we used in class and for our factor construction we will complement the data with Compustat. We accessed the Compustat metrics data from the “Financial Ratios Suite by WRDS” and we used the Compustat-CRSP merged database to get the quarterly revenue for each firm.
